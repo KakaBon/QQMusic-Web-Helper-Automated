@@ -1,0 +1,27 @@
+{
+  "task_file": "source/qqmusic_task_list.csv",
+  "watch_folder": "D:/Music/QQMusic-Captured",
+  "downloaded_folder": "D:/Music/QQMusic-Captured",
+  "log_folder": "logs",
+  "stable_seconds": 2.0,
+  "poll_interval_seconds": 0.5,
+  "auto_advance_after_download": true,
+  "auto_mark_done_after_download": true,
+  "ignore_extensions": [
+    ".crdownload",
+    ".tmp",
+    ".part"
+  ],
+  "preferred_filename_order": "title-artist",
+  "cdp_url": "http://127.0.0.1:9222",
+  "cdp_port": 9222,
+  "chrome_path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "chrome_profile": "D:/QQMusic-Automation-Chrome",
+  "cat_catch_extension_id": "jfedfbgedapdagkghmgibemcoggfppbb",
+  "search_timeout_seconds": 18,
+  "capture_timeout_seconds": 18,
+  "match_threshold": 80,
+  "search_max_wait_seconds": 45,
+  "search_poll_interval_seconds": 0.5,
+  "debug_cat_catch": true
+}

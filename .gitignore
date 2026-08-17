@@ -1,0 +1,15 @@
+# Local configuration
+config.json
+
+# Runtime logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.part
+*.crdownload
